@@ -8,7 +8,7 @@ O foco foi criar uma **interface elegante, responsiva e funcional**, com um **fu
 ## 🚀 Demonstração
 
 
-![Preview da Calculadora](https://i.ibb.co/q3GG5pf1/Captura-de-tela-2025-10-07-103420.png) <!-- substitua por sua imagem -->
+![Preview da Calculadora](https://i.ibb.co/q3GG5pf1/Captura-de-tela-2025-10-07-103420.png) 
 
 ---
 
